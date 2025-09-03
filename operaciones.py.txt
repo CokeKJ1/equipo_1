@@ -1,0 +1,8 @@
+numero1=5
+numero2=10
+suma=numero1+numero2
+print("La suma de",numero1,"y",numero2,"es",suma)
+print("Jorge Christian Paredes Murillo")
+print("Grower Chura Chura")
+print("Juan Carlos Caritas Rocha")
+print("Walter Ruben Huanquiri Gutierrez")
